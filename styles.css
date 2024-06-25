@@ -25,11 +25,11 @@ body {
 
 .trusted h2, .untrusted h2 {
     margin: 0 0 10px;
-    color: white;
+    color: solid white;
 }
 
 .untrusted h2 {
-    color: white;
+    color: solid white;
 }
 
 .list-content {
